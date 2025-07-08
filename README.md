@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning** and **Embedded System**. Currently hosting a website on Linux Server https://codecrafter.codes/
 
-- 📫 How to reach me **codecrafter003@gmail.com**
+- 📫 How to reach me **support@codecrafter.codes**
 
 - ⚡ Fun fact **Designer & Photographer**
 
