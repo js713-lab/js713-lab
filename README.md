@@ -1,5 +1,6 @@
 # 💫 About Me:
-Building smart digital solutions,<br>Crafting code, powering ideas.<br><br>Build, test, repeat ;<br>Prototype to perfection.<br><br>
+Building smart digital solutions,<br>Crafting code, powering ideas.<br>
+<br>Build, test, repeat ;<br>Prototype to perfection.<br><br>Exploring new technology to craft smarter solutions.
 
 
 ## 🌐 Socials:
