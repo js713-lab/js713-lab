@@ -1,5 +1,4 @@
-# Jason · CodeCrafter
-
+# Jason
 **Kuala Lumpur** · [codecrafter.dev](https://www.codecrafter.dev/)
 
 I ship **MCP servers** and custom software for SMEs — agent-native tools that plug into real workflows, and product work that takes a prototype the last mile to something you can run.
