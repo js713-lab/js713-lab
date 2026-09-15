@@ -2,7 +2,7 @@
 
 # Jason
 
-**KL** · [codecrafter.dev](https://www.codecrafter.dev/)
+**KL** · [js713.my](https://js713.my) · [codecrafter.dev](https://www.codecrafter.dev/)
 
 **MCP tools + custom software for SMEs.**
 
@@ -15,15 +15,18 @@ Product work that takes a prototype the last mile.
 
 **Currently building:** more MCP tools that connect agents to SME systems — plus shipping custom software through [CodeCrafter](https://www.codecrafter.dev/).
 
+## Websites
+
+- [js713.my](https://js713.my) — personal site
+- [codecrafter.dev](https://www.codecrafter.dev/) — CodeCrafter
+
 ## Featured
 
 | | Project | Ships |
 | :---: | --- | --- |
 | MCP | [**sonic-match-mcp**](https://github.com/js713-lab/sonic-match-mcp)<br>[![stars](https://img.shields.io/github/stars/js713-lab/sonic-match-mcp?style=flat-square&label=stars)](https://github.com/js713-lab/sonic-match-mcp) [![lang](https://img.shields.io/github/languages/top/js713-lab/sonic-match-mcp?style=flat-square)](https://github.com/js713-lab/sonic-match-mcp) | Footage in → license-safe BGM, hook windows, ffmpeg ducking specs. |
 | MCP | [**icloud4u-mcp**](https://github.com/js713-lab/icloud4u-mcp)<br>[![stars](https://img.shields.io/github/stars/js713-lab/icloud4u-mcp?style=flat-square&label=stars)](https://github.com/js713-lab/icloud4u-mcp) [![lang](https://img.shields.io/github/languages/top/js713-lab/icloud4u-mcp?style=flat-square)](https://github.com/js713-lab/icloud4u-mcp) | Read-only iCloud Drive — browse, search, download, extract document text. |
-| App | [**opsNest**](https://github.com/js713-lab/opsNest)<br>[![stars](https://img.shields.io/github/stars/js713-lab/opsNest?style=flat-square&label=stars)](https://github.com/js713-lab/opsNest) [![lang](https://img.shields.io/github/languages/top/js713-lab/opsNest?style=flat-square)](https://github.com/js713-lab/opsNest) | AI-generated (“vibe”) code → shippable software: projects, SDLC, tests, PR review. |
 | Live | [**QR-GEN**](https://qr.codecrafter.dev)<br>[![live](https://img.shields.io/badge/live-qr.codecrafter.dev-0ea5e9?style=flat-square)](https://qr.codecrafter.dev) | QR code generator — [qr.codecrafter.dev](https://qr.codecrafter.dev). |
-| Demo | [**secure-fin-auth-module**](https://github.com/js713-lab/secure-fin-auth-module)<br>[![stars](https://img.shields.io/github/stars/js713-lab/secure-fin-auth-module?style=flat-square&label=stars)](https://github.com/js713-lab/secure-fin-auth-module) [![lang](https://img.shields.io/github/languages/top/js713-lab/secure-fin-auth-module?style=flat-square)](https://github.com/js713-lab/secure-fin-auth-module) | Auth demo: registration, OTP MFA, JWT cookies, RBAC, rate limiting. |
 
 ## Daily stack
 
