@@ -76,7 +76,7 @@ I ship **MCP servers** and custom software for SMEs — agent-native tools that 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Js713._)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jason713)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:support@codecrafter.codes)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hong@codecrafter.dev)
 [![Website](https://img.shields.io/badge/js713.my-0A0A0A?logo=google-chrome&logoColor=white)](https://js713.my)
 
 ## GitHub stats
