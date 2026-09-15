@@ -1,5 +1,6 @@
 # Jason
-**Kuala Lumpur** · [codecrafter.dev](https://www.codecrafter.dev/)
+**Kuala Lumpur** · [codecrafter.dev](https://www.codecrafter.dev/) · [js713.my](https://js713.my)
+
 
 I ship **MCP servers** and custom software for SMEs — agent-native tools that plug into real workflows, and product work that takes a prototype the last mile to something you can run.
 
@@ -7,8 +8,6 @@ I ship **MCP servers** and custom software for SMEs — agent-native tools that 
 
 - **[sonic-match-mcp](https://github.com/js713-lab/sonic-match-mcp)** — MCP server that watches video footage and returns license-safe BGM matches, hook windows, and ffmpeg ducking specs for agents.
 - **[icloud4u-mcp](https://github.com/js713-lab/icloud4u-mcp)** — MCP server for read-only iCloud Drive access: browse folders, search by filename, download files, and extract document text.
-- **[opsNest](https://github.com/js713-lab/opsNest)** — Dashboard that turns AI-generated (“vibe”) code into shippable software — projects, SDLC visualization, tests, and PR review wiring.
-- **[secure-fin-auth-module](https://github.com/js713-lab/secure-fin-auth-module)** — SecureFin auth module demo: registration, OTP MFA, JWT cookies, RBAC, and rate limiting (OWASP-minded coursework).
 
 ## Socials
 
