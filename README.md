@@ -1,6 +1,8 @@
 <div align="center">
 
-# Jason · CodeCrafter · KL
+# Jason
+
+**KL** · [codecrafter.dev](https://www.codecrafter.dev/)
 
 **MCP tools + custom software for SMEs.**
 
